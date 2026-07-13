@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bufka2011)](https://github.com/anuraghazra/github-readme-stats)
+<img width="1080" height="1021" alt="68e902dbb0d47-3104003800" src="https://github.com/user-attachments/assets/164bdf88-696d-4f59-baf6-b93523f9d618" />
